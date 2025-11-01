@@ -230,3 +230,6 @@ Depois, **remova** a falha e reinicie o worker. No front → **DLQ Manager**:
 - **Key Vault** + **Managed Identity** para segredos/acessos.
 - **API Gateway** (Sensedia/APIM): versionamento, throttling, auth, observabilidade centralizada.
 - **Pipelines** (Azure DevOps/GitHub Actions): build → testes → imagens Docker → deploy.
+
+
+//xorxes
